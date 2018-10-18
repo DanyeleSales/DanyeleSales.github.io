@@ -1,0 +1,63 @@
+.row-margin>div{
+  margin-bottom: 25px;
+}
+.about{
+  background-color: #0d0f11;
+  color: #fff;
+  padding: 15px 0;
+  padding-top: 50px;  
+  padding-bottom: 50px;
+}
+.img-primary{
+  height: 567px;
+}
+ 
+.box-progress {
+      margin-top: 32px;  
+}
+.box-habilidades{
+  padding-bottom: 80px;
+  padding-top: 37px;  
+ 
+}
+.progress {
+  width: 100%;
+  background-color: #ebf0f3;
+  border-radius: .25rem;
+  height: 4vh;
+  margin: 23px;
+}
+.progress-bar {
+  color:#fff; 
+  background-color:#0d0f11 ;
+  text-align: left;
+  padding-left: 15px;
+} 
+
+.nav-primary .navbar-collapse{
+  justify-content: flex-end;
+}
+.title-portfolio{
+  padding-top: 30px;  
+  padding-bottom: 30px;
+}
+.box-portfolio{
+  padding: 30px;
+  background-color: #0d0f11;
+}
+.container-contato{
+  padding-top: 30px;  
+  padding-bottom: 30px;
+}
+.btn-saiba-mais{
+  justify-content: center;
+  display: flex;
+}
+
+span.error{
+  color: red;
+  font-weight: bold;
+}
+input.error{
+  border-color: red;
+}
